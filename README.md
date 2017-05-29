@@ -1,3 +1,3 @@
-# hello-world
-following guides instructions on creating repository
-I'm interested in using this site as a portfolio to document any programming scripts and skills I have.
+# Greetings Everyone
+
+I'm currently working on adding projects to my profile here for documenting my progress as a programmer.  I'm a beginner so please any constructive criticism on my scripts or any programs I would greatly appreciate. 
